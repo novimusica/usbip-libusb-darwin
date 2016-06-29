@@ -24,7 +24,7 @@
 #include <stdio.h>
 #include <unistd.h>
 
-#define USBIP_OS_NO_DAEMON
+#define USBIP_OS_NO_DAEMON /* deplicated */
 
 #define SIGCLD SIGCHLD
 
